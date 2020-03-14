@@ -1,0 +1,2 @@
+include ':app', ':mathoprations'
+rootProject.name='Math'
